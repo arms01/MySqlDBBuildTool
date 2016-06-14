@@ -243,3 +243,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/DirWatcher/test.py
+/DirWatcher/rePatternSets.py
+/DirWatcher/OutFileParser.py
